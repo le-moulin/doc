@@ -1,2 +1,1 @@
-# doc
-The OFFICIAL Le Moulin Documentation
+# Le Moulin
